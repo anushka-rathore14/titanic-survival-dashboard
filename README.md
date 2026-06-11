@@ -84,7 +84,7 @@ You do not need to install anything to interact with the dashboard.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR-USERNAME/titanic-survival-dashboard.git](https://github.com/YOUR-USERNAME/titanic-survival-dashboard.git)
+git clone [https://github.com/anushka-rathore14/titanic-survival-dashboard.git](https://github.com/anushka-rathore14/titanic-survival-dashboard.git)
 cd titanic-survival-dashboard
 
 # 2. Install the required dependencies:
