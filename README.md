@@ -33,7 +33,7 @@ This project demonstrates a full data science workflow. It takes the raw histori
 
 ## 🗺️ System Architecture
 
-The application follows a clean, interactive approach. The data cleaning and modeling phase was executed in a Jupyter environment, and the final extracted insights are served via a dynamic frontend.
+The application follows a clean, interactive approach. The data cleaning and modeling phase was executed in a Jupyter environment, and the final extracted insights are served via a dynamic frontend. A reproducible machine learning pipeline integrating Pandas-based data cleaning with a robust scikit-learn preprocessing architecture.
 
     Raw Kaggle CSV --> Data Cleaning (Pandas) --> Random Forest Model Insights --> Streamlit & Plotly Integration --> Interactive UI
 
@@ -95,7 +95,8 @@ streamlit run app.py
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-📊 Dataset Overview
+## 📊 Dataset Overview
+
 The dashboard utilizes the famous Kaggle Titanic - Machine Learning from Disaster
 training dataset, consisting of 891 passenger records with their known survival outcomes. 
 
