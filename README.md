@@ -34,6 +34,7 @@ This project demonstrates a full data science workflow. It takes the raw histori
 ## 🔎 Why This Project Matters (Recruiter View)
 
 > This project demonstrates my ability to:
+
 -Execute rigorous data cleaning and imputation using Python and Pandas to handle missing values and encode complex categorical variables.
 
 -Engineer predictive features from raw text and numerical fields—such as extracting identifiers and aggregating related data points—to optimize model performance.
