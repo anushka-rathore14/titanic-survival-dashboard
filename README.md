@@ -31,6 +31,19 @@ This project demonstrates a full data science workflow. It takes the raw histori
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🔎 Why This Project Matters (Recruiter View)
+
+> This project demonstrates my ability to:
+-Execute rigorous data cleaning and imputation using Python and Pandas to handle missing values and encode complex categorical variables.
+
+-Engineer predictive features from raw text and numerical fields—such as extracting identifiers and aggregating related data points—to optimize model performance.
+
+-Design and implement machine learning classification models to predict binary outcomes based on historical patterns.
+
+-Evaluate algorithm performance using quantitative metrics like accuracy, precision, and recall to ensure reliable and statistically sound results.
+
+-Build end-to-end pipelines that seamlessly transition messy, real-world data into structured predictive models.
+
 ## 🗺️ System Architecture
 
 The application follows a clean, interactive approach. The data cleaning and modeling phase was executed in a Jupyter environment, and the final extracted insights are served via a dynamic frontend. A reproducible machine learning pipeline integrating Pandas-based data cleaning with a robust scikit-learn preprocessing architecture.
