@@ -44,6 +44,8 @@ This project demonstrates a full data science workflow. It takes the raw histori
 
 -Build end-to-end pipelines that seamlessly transition messy, real-world data into structured predictive models.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🗺️ System Architecture
 
 The application follows a clean, interactive approach. The data cleaning and modeling phase was executed in a Jupyter environment, and the final extracted insights are served via a dynamic frontend. A reproducible machine learning pipeline integrating Pandas-based data cleaning with a robust scikit-learn preprocessing architecture.
